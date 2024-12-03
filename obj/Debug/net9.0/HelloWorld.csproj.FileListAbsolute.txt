@@ -12,3 +12,4 @@
 /Users/kutayozcan/Desktop/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
 /Users/kutayozcan/Desktop/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
 /Users/kutayozcan/Desktop/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
+/Users/kutayozcan/Desktop/HelloWorld/obj/Debug/net9.0/HelloWorld.sourcelink.json
